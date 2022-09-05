@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "fa4f098d-ebca-434e-b499-a112b38c5006",
+    "Name": "UsrPhotoService",
+    "ModifiedOnUtc": "/Date(1585153618000)/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Service for work with Photo",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "ec8e133f-ec05-49d7-a303-5b1c2836b3d9",
+    "Name": "UsrSetSessionAuthorizationToken",
+    "ModifiedOnUtc": "/Date(1584024429000)/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": " Set Session Authorization Token",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ScriptTask2.Caption" Value="Script task 2" />
+			<Item Name="Caption" Value="Proccess Target v2 " />
+			<Item Name="Parameters.AccountCode.Caption" Value="AccountCode" />
+		</Items>
+	</Group>
+</Resources>

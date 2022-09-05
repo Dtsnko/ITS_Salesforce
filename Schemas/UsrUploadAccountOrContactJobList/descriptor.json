@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "174a78e1-b983-4ba2-b3da-b3f2d46e5b7d",
+    "Name": "UsrUploadAccountOrContactJobList",
+    "ModifiedOnUtc": "/Date(1585917730000)/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Upload Job List for Account",
+    "DependsOn": []
+  }
+}

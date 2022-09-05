@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ITS_SalesforceLogger" />
+			<Item Name="Columns.UsrITSSalesforceErrors.Caption" Value="ITSSalesforceErrors" />
+			<Item Name="Columns.UsrITSSalesforceRequestBody.Caption" Value="ITSSalesforceRequestBody" />
+			<Item Name="Columns.UsrITSSalesforceRequestTime.Caption" Value="ITSSalesforceRequestTime" />
+			<Item Name="Columns.UsrITSSalesforceServiceDetails.Caption" Value="ITSSalesforceServiceDetails" />
+			<Item Name="Columns.UsrITSSalesforceSuccess.Caption" Value="ITSSalesforceSuccess" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "e36cb2b9-c80e-447a-9f91-d5c36a68965e",
+    "Name": "UsrProccessTarget",
+    "ModifiedOnUtc": "/Date(1592255756000)/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Process Targets",
+    "DependsOn": []
+  }
+}

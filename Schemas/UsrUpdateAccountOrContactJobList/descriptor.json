@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "f7d59d00-3fcb-4f4f-9658-9764193fa294",
+    "Name": "UsrUpdateAccountOrContactJobList",
+    "ModifiedOnUtc": "/Date(1631176831000)/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Webservice обновления заданий по ТТ",
+    "DependsOn": []
+  }
+}

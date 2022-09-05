@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "33347276-4a21-4346-8693-d8b6a10046f1",
+    "Name": "UsrContactIntegrationWithSalesforce",
+    "ModifiedOnUtc": "/Date(1587470106000)/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Webservice обновления данных по контакту",
+    "DependsOn": []
+  }
+}

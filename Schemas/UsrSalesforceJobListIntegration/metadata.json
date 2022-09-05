@@ -1,0 +1,205 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessSchemaManager",
+      "UId": "461d5482-149b-4a16-9424-39153e76b283",
+      "A2": "UsrSalesforceJobListIntegration",
+      "A5": "baee1817-73e7-47b3-9926-ae55dcdd375a",
+      "B1": [],
+      "B2": [],
+      "B3": [
+        {
+          "UId": "6554aef5-f763-4b5a-b8e5-ccbdd31f749d",
+          "A2": "Terrasoft.Configuration",
+          "A3": "461d5482-149b-4a16-9424-39153e76b283",
+          "A4": "461d5482-149b-4a16-9424-39153e76b283",
+          "A5": "baee1817-73e7-47b3-9926-ae55dcdd375a",
+          "GF1": "null"
+        }
+      ],
+      "B6": "49f880d2-5e0e-4a65-8418-9fcb680b474e",
+      "B8": "7.14.3.1686",
+      "FJ1": [],
+      "IJ1": true,
+      "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+      "IJ10": true,
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "461d5482-149b-4a16-9424-39153e76b283",
+        "A4": "461d5482-149b-4a16-9424-39153e76b283",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "BK1": "FFFFFFFF",
+      "BK2": "FFBBBBBB",
+      "BK3": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaLaneSet",
+          "UId": "bb8bc473-cc76-4ee7-8a83-e705656d2773",
+          "A2": "LaneSet1",
+          "A3": "461d5482-149b-4a16-9424-39153e76b283",
+          "A4": "461d5482-149b-4a16-9424-39153e76b283",
+          "A5": "49f880d2-5e0e-4a65-8418-9fcb680b474e",
+          "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
+          "BL8": "461d5482-149b-4a16-9424-39153e76b283",
+          "BM1": 0,
+          "BM4": [
+            {
+              "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
+              "UId": "d60b0ffa-68b3-4e0b-817b-add886e1c44f",
+              "A2": "Lane1",
+              "A3": "461d5482-149b-4a16-9424-39153e76b283",
+              "A4": "461d5482-149b-4a16-9424-39153e76b283",
+              "A5": "49f880d2-5e0e-4a65-8418-9fcb680b474e",
+              "IL2": "bb8bc473-cc76-4ee7-8a83-e705656d2773",
+              "BL7": "abcd74b9-5912-414b-82ac-f1aa4dcd554e",
+              "BL8": "461d5482-149b-4a16-9424-39153e76b283",
+              "CD1": [],
+              "CD2": [],
+              "CD4": "bb8bc473-cc76-4ee7-8a83-e705656d2773",
+              "CD7": []
+            }
+          ]
+        }
+      ],
+      "BK5": [],
+      "BK4": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
+          "UId": "d5435cc9-dd58-4fbb-a388-e80d59b97d15",
+          "A2": "TerminateEvent1",
+          "A3": "461d5482-149b-4a16-9424-39153e76b283",
+          "A4": "461d5482-149b-4a16-9424-39153e76b283",
+          "A5": "49f880d2-5e0e-4a65-8418-9fcb680b474e",
+          "IL2": "d60b0ffa-68b3-4e0b-817b-add886e1c44f",
+          "BL3": "600;184",
+          "BL7": "1bd93619-0574-454e-bb4e-cf53b9eb9470",
+          "BL8": "461d5482-149b-4a16-9424-39153e76b283",
+          "BN2": "27;27",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaScriptTask",
+          "UId": "fead8efa-b129-4f28-b21f-4352c0de174b",
+          "A2": "ScriptTask1",
+          "A3": "461d5482-149b-4a16-9424-39153e76b283",
+          "A4": "461d5482-149b-4a16-9424-39153e76b283",
+          "A5": "49f880d2-5e0e-4a65-8418-9fcb680b474e",
+          "IL2": "d60b0ffa-68b3-4e0b-817b-add886e1c44f",
+          "BL3": "271;170",
+          "BL7": "0e490dda-e140-4441-b600-6f5c64d024df",
+          "BL8": "461d5482-149b-4a16-9424-39153e76b283",
+          "BN2": "69;55",
+          "BO3": true,
+          "BP2": [],
+          "CL2": "FFFFFFFF",
+          "CH1": "UsrJobListIntegrationWithSalesforce jobList = new UsrJobListIntegrationWithSalesforce(context.UserConnection);\njobList.GetInformationJobList();\nreturn true;",
+          "CH2": true
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartTimerEvent",
+          "UId": "e0e741d3-2369-4c68-b804-6c236523d278",
+          "A2": "StartTimerEvent1",
+          "A3": "461d5482-149b-4a16-9424-39153e76b283",
+          "A4": "461d5482-149b-4a16-9424-39153e76b283",
+          "A5": "49f880d2-5e0e-4a65-8418-9fcb680b474e",
+          "IL2": "d60b0ffa-68b3-4e0b-817b-add886e1c44f",
+          "BL3": "33;184",
+          "BL7": "c735ed92-e545-4699-b3c6-f8f57dd8c529",
+          "BL8": "461d5482-149b-4a16-9424-39153e76b283",
+          "BN2": "27;27",
+          "BO3": true,
+          "FC1": [],
+          "ED1": false,
+          "PS1": "0 */5 0-23 * * ? *",
+          "PS3": 6,
+          "PS4": "null",
+          "PS5": "null",
+          "PS6": "FLE Standard Time"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaStartEvent",
+          "UId": "99509ceb-97e8-4f68-bfb0-291fc58482f9",
+          "A2": "StartEvent1",
+          "A3": "461d5482-149b-4a16-9424-39153e76b283",
+          "A4": "461d5482-149b-4a16-9424-39153e76b283",
+          "A5": "49f880d2-5e0e-4a65-8418-9fcb680b474e",
+          "IL2": "d60b0ffa-68b3-4e0b-817b-add886e1c44f",
+          "BL3": "131;314",
+          "BL7": "53818048-7868-48f6-ada0-0ebaa65af628",
+          "BL8": "461d5482-149b-4a16-9424-39153e76b283",
+          "BN2": "27;27",
+          "BO3": true,
+          "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "3b45e9b9-7e29-42e2-b4af-6ef4896d0f59",
+          "A2": "SequenceFlow2",
+          "A3": "461d5482-149b-4a16-9424-39153e76b283",
+          "A4": "461d5482-149b-4a16-9424-39153e76b283",
+          "A5": "49f880d2-5e0e-4a65-8418-9fcb680b474e",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "461d5482-149b-4a16-9424-39153e76b283",
+          "CI1": "fead8efa-b129-4f28-b21f-4352c0de174b",
+          "CI2": "d5435cc9-dd58-4fbb-a388-e80d59b97d15",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI7": "1;0",
+          "CI8": "-1;0"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "fc40f182-835e-4598-8413-50ee6db670c3",
+          "A2": "SequenceFlow1",
+          "A3": "461d5482-149b-4a16-9424-39153e76b283",
+          "A4": "461d5482-149b-4a16-9424-39153e76b283",
+          "A5": "49f880d2-5e0e-4a65-8418-9fcb680b474e",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "461d5482-149b-4a16-9424-39153e76b283",
+          "CI1": "e0e741d3-2369-4c68-b804-6c236523d278",
+          "CI2": "fead8efa-b129-4f28-b21f-4352c0de174b",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI7": "1;0",
+          "CI8": "-1;0"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "e82ac7f7-aaf2-42ff-8133-568c455a8f7b",
+          "A2": "SequenceFlow3",
+          "A3": "461d5482-149b-4a16-9424-39153e76b283",
+          "A4": "461d5482-149b-4a16-9424-39153e76b283",
+          "A5": "49f880d2-5e0e-4a65-8418-9fcb680b474e",
+          "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+          "BL8": "461d5482-149b-4a16-9424-39153e76b283",
+          "CI1": "99509ceb-97e8-4f68-bfb0-291fc58482f9",
+          "CI2": "fead8efa-b129-4f28-b21f-4352c0de174b",
+          "CI3": "null",
+          "CI5": "FF939598",
+          "CI6": 1,
+          "CI7": "1;0",
+          "CI8": "0;-1",
+          "CI10": {
+            "Item0": "305;328"
+          }
+        }
+      ],
+      "BK9": [],
+      "BK18": "Business Process",
+      "BK29": true,
+      "BK30": true,
+      "BK34": "null",
+      "BK24": []
+    }
+  }
+}

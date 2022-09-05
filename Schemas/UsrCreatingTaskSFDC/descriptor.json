@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "97400bd5-5bde-4349-9cef-603312b3c9a1",
+    "Name": "UsrCreatingTaskSFDC",
+    "ModifiedOnUtc": "/Date(1621509400000)/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Создание задачи на стороне SFDC",
+    "DependsOn": []
+  }
+}

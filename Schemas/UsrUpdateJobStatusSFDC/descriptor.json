@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "51669dc9-8915-4f52-a584-ad0eec878bf9",
+    "Name": "UsrUpdateJobStatusSFDC",
+    "ModifiedOnUtc": "/Date(1628171910000)/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Webservice \"Обновление статуса задания в SFDC\"",
+    "DependsOn": []
+  }
+}

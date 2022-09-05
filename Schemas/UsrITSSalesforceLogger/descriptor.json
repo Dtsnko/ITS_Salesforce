@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "796f3fa8-c9f8-4765-944a-9fad41c12d28",
+    "Name": "UsrITSSalesforceLogger",
+    "ModifiedOnUtc": "/Date(1582822492000)/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "ITS_SalesforceLogger",
+    "DependsOn": []
+  }
+}

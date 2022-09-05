@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "5e8848ee-f0c1-4f13-9f4f-214fafbc1448",
+    "Name": "UsrCaseIntegrationWithSalesforce",
+    "ModifiedOnUtc": "/Date(1631175895000)/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Webservice получение обращений из SFDC",
+    "DependsOn": []
+  }
+}

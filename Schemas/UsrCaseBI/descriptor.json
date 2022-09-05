@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "40a488b8-0d5e-4d62-8319-d30f3edffd44",
+    "Name": "UsrCaseBI",
+    "ModifiedOnUtc": "/Date(1621951662000)/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Передача данных на сторону BI",
+    "DependsOn": []
+  }
+}

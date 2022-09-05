@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "7bc959c9-6d03-4e27-8758-84521b2e7264",
+    "Name": "UsrUploadPhoto",
+    "ModifiedOnUtc": "/Date(1584346238000)/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Upload photo",
+    "DependsOn": []
+  }
+}

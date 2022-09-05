@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "f08ccd90-3826-4cb8-8b29-1df9e98de489",
+    "Name": "UsrPlanogramService",
+    "ModifiedOnUtc": "/Date(1589918407000)/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Service for work with Planogram",
+    "DependsOn": []
+  }
+}

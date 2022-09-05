@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "dba95bca-d904-46f7-8ff0-91ccaf5cef0a",
+    "Name": "UsrSalesforceResponseQuestionsIntegration",
+    "ModifiedOnUtc": "/Date(1584457974000)/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Update responseQuestions from SFDC",
+    "DependsOn": []
+  }
+}

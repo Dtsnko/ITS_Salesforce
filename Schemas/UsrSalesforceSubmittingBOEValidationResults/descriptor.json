@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "ae05029b-628d-4c98-b498-0b6ce8e281c5",
+    "Name": "UsrSalesforceSubmittingBOEValidationResults",
+    "ModifiedOnUtc": "/Date(1628170554000)/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Submitting BOE Validation Results",
+    "DependsOn": []
+  }
+}

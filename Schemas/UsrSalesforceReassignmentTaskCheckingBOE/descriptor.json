@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "c34db322-d4ec-4bca-899b-18d84ab6af34",
+    "Name": "UsrSalesforceReassignmentTaskCheckingBOE",
+    "ModifiedOnUtc": "/Date(1586872726000)/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Reassignment of the task after checking the BOE",
+    "DependsOn": []
+  }
+}

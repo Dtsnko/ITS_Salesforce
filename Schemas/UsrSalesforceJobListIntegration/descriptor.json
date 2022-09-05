@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "461d5482-149b-4a16-9424-39153e76b283",
+    "Name": "UsrSalesforceJobListIntegration",
+    "ModifiedOnUtc": "/Date(1601636952000)/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Update JobLists from SFDC",
+    "DependsOn": []
+  }
+}

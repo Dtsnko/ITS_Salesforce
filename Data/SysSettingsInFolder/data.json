@@ -1,0 +1,328 @@
+{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "17076887-48ac-41fa-9068-6c1c3891cb6f",
+          "DisplayValue": "Salesforce version"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "074dc391-6907-4fc2-b5ad-06cc728668b8"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "36aefbeb-94d7-4f88-b280-746bb76683ed",
+          "DisplayValue": "Salesforce ResponseQuestion url"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "09b2583c-8c59-4d77-8f9e-191315afbc42"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "6c1c02fe-bf9e-47c5-8893-e014f3540bfc",
+          "DisplayValue": "Salesforce Case Query"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c14ac601-d118-4303-a13b-2409433234d9"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "dcfc03ca-bfe3-4e2a-96a7-26a41f3d3f58",
+          "DisplayValue": "Salesforce login"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "414524c3-7616-4ec6-ad0f-2511ab790590"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "ac57b8ad-cf68-4c52-8a74-2b3ad1877e32",
+          "DisplayValue": "Salesforce Contact url"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "595b9444-a03b-4680-b0f4-261899aab8a9"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "f9c099b6-5d39-4e1a-a982-d7e9f51f1cbb",
+          "DisplayValue": "Salesforce JobList Query"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a97b2fe0-e1e4-4c6c-b3f1-378ded5fdfc7"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "58506137-ba7a-4ccf-992f-47a48467aeb6",
+          "DisplayValue": "Salesforce Decryption Key"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ed8bebf3-0e80-4b41-8d8b-47a0d3016cb5"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "7e81a755-251e-4464-acfd-ced71ac057de",
+          "DisplayValue": "Salesforce ResponseQuestion Query"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4e94b990-b1ac-435d-9be5-494d95fedaa6"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "13ea2212-6b66-4924-8675-b184ab4b7fce",
+          "DisplayValue": "Salesforce token"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fc279ab3-9221-4aca-adf3-676898f9f784"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "3ef38a81-aa75-4a22-90a4-34af4abc7b0d",
+          "DisplayValue": "Salesforce Initialization Vector"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "dcad89fa-0eba-4a7d-9319-6ce71b3396ac"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "2dd2f948-f2fe-40f0-a3f6-d2fb5b14770d",
+          "DisplayValue": "SalesforceExe Path"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9a183bbf-5bc7-4f3d-a875-751f0fb2dc63"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "e4102593-0e4c-43e0-b831-ba90975fcf49",
+          "DisplayValue": "Salesforce JDL Create url"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4131cba9-6c0b-4bb6-8cbd-89d8b091bd98"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "a5c526d3-6151-4355-a36c-1e1fd2542a73",
+          "DisplayValue": "Salesforce JL Status url"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c763b891-cc68-445b-ba8b-a36c73a9394d"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "95a0e872-aba6-424d-99c0-83082faf517f",
+          "DisplayValue": "Salesforce Session Authorization Token"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1159ee01-8244-4a2a-b1c9-a9809dc939d6"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "c15a92a5-ad64-41cc-870d-fb9e6878f3b5",
+          "DisplayValue": "Salesforce JobList url"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "35ad5688-f9d0-493a-9e7c-c0ad01415669"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "41ed8dd9-3d86-4f9e-bab9-8f9522f70605",
+          "DisplayValue": "Salesforce password"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "752e59da-f6aa-4c41-bae1-c4829881f112"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "26d85fcc-8726-4483-8fdb-5b469be63766",
+          "DisplayValue": "Salesforce Case url"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c9e938be-c2bd-4b7d-bd23-d1610dc63c23"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "34982036-bcf9-408a-a293-d6b35c45edd5",
+          "Value": "713ba32e-1a23-4fa2-8a9f-97f171d98ae4",
+          "DisplayValue": "Salesforce Contact Query"
+        },
+        {
+          "SchemaColumnUId": "9e46bb69-9788-423c-b7cd-4c624081082d",
+          "Value": "eb0757cd-fe86-4211-ba7e-f84bf5e96e85",
+          "DisplayValue": "Salesforce"
+        },
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f5e09a2c-9305-4481-a04e-fe82b796d2c2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Descriptor": {
+    "UId": "c4bf50c1-3a4e-4445-968f-a32a5f22236d",
+    "Name": "UsrITS_SalesforceLogger",
+    "ModifiedOnUtc": "/Date(1631177474000)/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "ITS_SalesforceLogger",
+    "DependsOn": []
+  }
+}

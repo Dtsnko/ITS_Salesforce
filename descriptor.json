@@ -1,0 +1,32 @@
+{
+  "Descriptor": {
+    "UId": "49f880d2-5e0e-4a65-8418-9fcb680b474e",
+    "Name": "ITS_Salesforce",
+    "ModifiedOnUtc": "/Date(1585253991000)/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "09b67fff-5e1e-4fbd-ac80-5faaf9a0b0bd",
+        "Name": "ITS2"
+      },
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      },
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      },
+      {
+        "UId": "9bb79f8a-71df-444d-b7fb-5f41b435f788",
+        "Name": "ITS_DeleteContactCommunicationOptions"
+      },
+      {
+        "UId": "9e018b9c-374d-4f50-a4ba-52302a7b01c4",
+        "Name": "ITS"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "caa5dbfe-f666-4131-b7d8-d26994587596",
+    "Name": "UsrDecryptionPostRequest",
+    "ModifiedOnUtc": "/Date(1621000655000)/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Вебсервис обработки Post-запроса",
+    "DependsOn": []
+  }
+}

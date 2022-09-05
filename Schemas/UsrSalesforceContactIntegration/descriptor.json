@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "2fd71063-56bf-49ba-8ab7-4a065441ba13",
+    "Name": "UsrSalesforceContactIntegration",
+    "ModifiedOnUtc": "/Date(1591215354000)/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Update Contacts from SFDC",
+    "DependsOn": []
+  }
+}

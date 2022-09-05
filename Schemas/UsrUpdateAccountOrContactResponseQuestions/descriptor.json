@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "fa459cdc-09e2-4a08-8a0e-896ddf838dc5",
+    "Name": "UsrUpdateAccountOrContactResponseQuestions",
+    "ModifiedOnUtc": "/Date(1631177116000)/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Webservice обновления заданий по ТТ",
+    "DependsOn": []
+  }
+}

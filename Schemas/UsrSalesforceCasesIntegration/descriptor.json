@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "ccbba0d6-9834-417b-ba6a-7e20d99bb7d3",
+    "Name": "UsrSalesforceCasesIntegration",
+    "ModifiedOnUtc": "/Date(1628159822000)/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Update Cases from SFDC",
+    "DependsOn": []
+  }
+}

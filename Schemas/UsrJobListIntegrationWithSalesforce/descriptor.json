@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "f2c26438-1956-45c3-8d79-fbd12093cbf2",
+    "Name": "UsrJobListIntegrationWithSalesforce",
+    "ModifiedOnUtc": "/Date(1631176480000)/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Webservice обновления данных в Creatio по задачам",
+    "DependsOn": []
+  }
+}

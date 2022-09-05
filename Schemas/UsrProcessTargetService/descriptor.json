@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "c94a251a-369d-4147-8ed7-e9e338c7a4b0",
+    "Name": "UsrProcessTargetService",
+    "ModifiedOnUtc": "/Date(1592467943000)/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Service for process targets",
+    "DependsOn": []
+  }
+}

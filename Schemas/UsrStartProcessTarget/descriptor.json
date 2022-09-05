@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "9df18332-0f27-4281-b84e-8fc98b5605e7",
+    "Name": "UsrStartProcessTarget",
+    "ModifiedOnUtc": "/Date(1592350283000)/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Start process target (trigger)",
+    "DependsOn": []
+  }
+}
