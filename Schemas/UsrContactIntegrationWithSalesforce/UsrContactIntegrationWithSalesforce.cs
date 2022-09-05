@@ -221,6 +221,7 @@ namespace Terrasoft.Configuration
                             entityContact.SetColumnValue("Name", item.Id);
                             entityContact.SetColumnValue("Email", item.Email);
                             entityContact.SetColumnValue("MobilePhone", item.MobilePhone);
+							entityContact.SetColumnValue("SFDCPhone", item.SFDCPhone);
                             entityContact.SetColumnValue("UsrStringTransactionPoints", item.DTE_TransactionPoints__c);
                             entityContact.SetColumnValue("UsrStatusId", statusId != Guid.Empty ? statusId : (Guid?)null);
                             entityContact.SetColumnValue("UsrRole", item.DTE_Role__c);
@@ -247,6 +248,7 @@ namespace Terrasoft.Configuration
                             entityContact.SetColumnValue("Name", item.Id);
                             entityContact.SetColumnValue("Email", item.Email);
                             entityContact.SetColumnValue("MobilePhone", item.MobilePhone);
+							entityContact.SetColumnValue("SFDCPhone", item.SFDCPhone);
                             entityContact.SetColumnValue("UsrStringTransactionPoints", item.DTE_TransactionPoints__c);
                             entityContact.SetColumnValue("UsrStatusId", statusId != Guid.Empty ? statusId : (Guid?)null);
                             entityContact.SetColumnValue("UsrRole", item.DTE_Role__c);
@@ -322,6 +324,7 @@ namespace Terrasoft.Configuration
                             entityContact.SetColumnValue("Name", item.Id);
                             entityContact.SetColumnValue("Email", item.Email);
                             entityContact.SetColumnValue("MobilePhone", item.MobilePhone);
+							entityContact.SetColumnValue("SFDCPhone", item.SFDCPhone);
                             entityContact.SetColumnValue("UsrStringTransactionPoints", item.DTE_TransactionPoints__c);
                             entityContact.SetColumnValue("UsrStatusId", statusId != Guid.Empty ? statusId : (Guid?)null);
                             entityContact.SetColumnValue("UsrRole", item.DTE_Role__c);
@@ -336,6 +339,7 @@ namespace Terrasoft.Configuration
                             entityContact.SetColumnValue("Name", item.Id);
                             entityContact.SetColumnValue("Email", item.Email);
                             entityContact.SetColumnValue("MobilePhone", item.MobilePhone);
+							entityContact.SetColumnValue("SFDCPhone", item.SFDCPhone);
                             entityContact.SetColumnValue("UsrStringTransactionPoints", item.DTE_TransactionPoints__c);
                             entityContact.SetColumnValue("UsrStatusId", statusId != Guid.Empty ? statusId : (Guid?)null);
                             entityContact.SetColumnValue("UsrRole", item.DTE_Role__c);
@@ -453,9 +457,14 @@ namespace Terrasoft.Configuration
 
             [JsonProperty("MobilePhone")]
             public string MobilePhone { get; set; }
+			
+			[JsonProperty("Phone")]
+            public string SFDCPhone { get; set; }
 
             [JsonProperty("Name")]
             public string Name { get; set; }
+			
+			
         }
 
         public class AccountContactRelations
